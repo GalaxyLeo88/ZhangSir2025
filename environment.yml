@@ -1,7 +1,6 @@
 name: ZhangSir01
 channels:
   - conda-forge
-channel_priority: strict
 dependencies:
   - python=3.12
   - conda-lock
@@ -9,4 +8,7 @@ dependencies:
   - jupyter
   - numpy
   - matplotlib
+  - ruff
+  - black
+  - nbstripout
 prefix: E:\Anaconda\envs\ZhangSir01
