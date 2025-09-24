@@ -1,0 +1,12 @@
+name: ZhangSir01
+channels:
+  - conda-forge
+channel_priority: strict
+dependencies:
+  - python=3.12
+  - conda-lock
+  - pandas
+  - jupyter
+  - numpy
+  - matplotlib
+prefix: E:\Anaconda\envs\ZhangSir01
